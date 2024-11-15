@@ -69,6 +69,6 @@ A modern browser that supports JavaScript.
 ## **Contact**
 
 - **Author**: Andrea Rabe  
-- **Email**: [your-email@example.com](mailto:nantenainaandrea2@gmail.com)  
+- **Email**: [nantenainaandrea2@gmail.com](mailto:nantenainaandrea2@gmail.com)  
 
 ---
